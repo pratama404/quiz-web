@@ -1,0 +1,27 @@
+[
+	{
+		"title":"'OS' computer abbreviation usually means ?",
+		"options":["Order of significance","Open Software","Operating System", "Nome of These"],
+		"correctOptionIndex":"2"
+	},
+	{
+		"title":"Most modern TV draw power event if TURNED OFF, the power circuit use in does ?",
+		"options":["sound","remote","colour","voltage"],
+		"correctOptionIndex":"1"
+	},
+	{
+		"title":"Which motor is NOT suitable for use as a DC Machine?",
+		"options":["permanent magnet", "series","squirrel","synchronous"],
+		"correctOptionIndex":"2"
+	},
+	{
+		"title":".ini extention refers usually to what kind of file ?",
+		"options":["image file","sys file","hypertext file","none of this"],
+		"correctOptionIndex":"1"
+	},
+	{
+		"title":"which consist of two plates separeted by a dielectric and can store change ?",
+		"options":["capasitor","inductor","transistor","relay"],
+		"correctOptionIndex":"0"
+	}
+]
